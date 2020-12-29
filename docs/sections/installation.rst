@@ -6,8 +6,8 @@ Installation
 Requirements
 ============
 
-* Python: ``2.7`` ``3.4`` ``3.5`` ``3.6``
-* Django: ``1.8`` ``1.9`` ``1.10`` ``1.11`` ``2.0``
+* Python: ``3.8``
+* Django: ``3.1``
 
 Quick Installation
 ==================
